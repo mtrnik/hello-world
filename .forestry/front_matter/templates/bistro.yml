@@ -8,3 +8,5 @@ fields:
     required: true
   label: dsadsa
   description: dsadas
+pages:
+- fileName.md
