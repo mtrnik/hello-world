@@ -1,4 +1,10 @@
 ---
 label: Bistro
 hide_body: false
-fields: []
+fields:
+- name: dsadsa
+  type: text
+  config:
+    required: true
+  label: dsadsa
+  description: dsadas
