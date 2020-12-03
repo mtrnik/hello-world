@@ -1,0 +1,5 @@
+---
+nadpis: dsadsa
+obsah: dsadasdasdasdsadasdas
+
+---

@@ -17,3 +17,5 @@ fields:
     schema:
       format: markdown
   label: obsah
+pages:
+- lala.md
