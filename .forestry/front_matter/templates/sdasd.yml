@@ -1,4 +1,19 @@
 ---
 label: sdasd
 hide_body: true
-fields: []
+fields:
+- name: nadpis
+  type: text
+  config:
+    required: false
+  label: nadpis
+  description: dsadasd
+- name: obsah
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: obsah
